@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Sitemap: https://fruit-exchange.github.io/vosstanovim-kzn/sitemap.xml
+
+User-agent: Yandex
+Allow: /
+Crawl-delay: 2
+Sitemap: https://fruit-exchange.github.io/vosstanovim-kzn/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+Sitemap: https://fruit-exchange.github.io/vosstanovim-kzn/sitemap.xml
